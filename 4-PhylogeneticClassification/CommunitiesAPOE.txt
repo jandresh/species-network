@@ -1,0 +1,446 @@
+Comunidad 1
+1: Primates
+7: Primates
+10: Primates
+15: Primates
+16: Primates
+19: Primates
+26: Primates
+27: Primates
+28: Primates
+29: Primates
+32: Primates
+53: Primates
+64: Scandentia
+82: Primates
+91: Primates
+98: Primates
+101: Primates
+103: Primates
+104: Primates
+119: Primates
+122: Primates
+144: Primates
+150: Primates
+194: Primates
+195: Primates
+206: Primates
+
+Comunidad 2
+8: Carnivora
+17: Carnivora
+30: Carnivora
+36: Carnivora
+46: Carnivora
+89: Carnivora
+110: Carnivora
+140: Carnivora
+141: Carnivora
+151: Carnivora
+152: Carnivora
+153: Carnivora
+158: Carnivora
+165: Carnivora
+169: Carnivora
+181: Carnivora
+186: Carnivora
+196: Carnivora
+197: Carnivora
+202: Carnivora
+211: Carnivora
+213: Carnivora
+229: Carnivora
+236: Carnivora
+239: Carnivora
+
+Comunidad 3
+4: Artiodactyla
+31: Artiodactyla
+34: Artiodactyla
+54: Artiodactyla
+58: Artiodactyla
+62: Artiodactyla
+65: Artiodactyla
+74: Artiodactyla
+75: Artiodactyla
+78: Artiodactyla
+93: Artiodactyla
+95: Artiodactyla
+96: Artiodactyla
+129: Artiodactyla
+135: Artiodactyla
+142: Artiodactyla
+149: Artiodactyla
+162: Artiodactyla
+164: Artiodactyla
+178: Artiodactyla
+200: Artiodactyla
+219: Artiodactyla
+233: Artiodactyla
+
+Comunidad 4
+2: Rodentia
+3: Rodentia
+24: Rodentia
+48: Rodentia
+51: Rodentia
+72: Rodentia
+90: Rodentia
+137: Rodentia
+138: Rodentia
+139: Rodentia
+175: Rodentia
+176: Rodentia
+192: Rodentia
+203: Rodentia
+210: Rodentia
+214: Rodentia
+226: Rodentia
+238: Rodentia
+
+Comunidad 5
+68: Chiroptera
+84: Chiroptera
+114: Chiroptera
+127: Chiroptera
+148: Chiroptera
+172: Chiroptera
+204: Chiroptera
+215: Chiroptera
+216: Chiroptera
+221: Chiroptera
+222: Chiroptera
+232: Chiroptera
+
+Comunidad 6
+49: Testudines
+73: Testudines
+146: Testudines
+187: Testudines
+201: Testudines
+227: Testudines
+231: Testudines
+
+Comunidad 7
+56: Cyprinodontiformes
+80: Cyprinodontiformes
+86: Cyprinodontiformes
+108: Cyprinodontiformes
+109: Cyprinodontiformes
+168: Cyprinodontiformes
+199: Cyprinodontiformes
+
+Comunidad 8
+22: Cichliformes
+39: Cichliformes
+55: Cichliformes
+59: Cichliformes
+154: Cichliformes
+193: Cichliformes
+
+Comunidad 9
+35: Sirenia
+45: Undefined
+69: Undefined
+81: Tubulidentata
+
+Comunidad 10
+136: Diprotodontia
+166: Diprotodontia
+218: Diprotodontia
+
+Comunidad 11
+159: Squamata
+209: Squamata
+230: Squamata
+
+Comunidad 12
+14: Perissodactyla
+107: Perissodactyla
+
+Comunidad 13
+21: Monotremata
+228: Monotremata
+
+Comunidad 14
+33: Beloniformes
+147: Beloniformes
+
+Comunidad 15
+42: Rodentia
+47: Rodentia
+
+Comunidad 16
+44: Eulipotyphla
+223: Eulipotyphla
+
+Comunidad 17
+116: Cypriniformes
+155: Cypriniformes
+
+Comunidad 18
+118: Siluriformes
+160: Siluriformes
+
+Comunidad 19
+120: Pholidota
+220: Pholidota
+
+Comunidad 20
+143: Carangiformes
+145: Carangiformes
+
+Comunidad 21
+174: Squamata
+205: Squamata
+
+Comunidad 22
+190: Artiodactyla
+207: Artiodactyla
+
+Comunidad 23
+191: Perciformes
+198: Perciformes
+
+Comunidad 24
+5: Anura
+
+Comunidad 25
+6: Artiodactyla
+
+Comunidad 26
+9: Cypriniformes
+
+Comunidad 27
+11: Tetraodontiformes
+
+Comunidad 28
+12: Lagomorpha
+
+Comunidad 29
+13: Didelphimorphia
+
+Comunidad 30
+18: Squamata
+
+Comunidad 31
+20: Proboscidea
+
+Comunidad 32
+23: Rodentia
+
+Comunidad 33
+25: Dasyuromorphia
+
+Comunidad 34
+37: Perissodactyla
+
+Comunidad 35
+38: Cingulata
+
+Comunidad 36
+40: Lagomorpha
+
+Comunidad 37
+41: Eulipotyphla
+
+Comunidad 38
+43: Rodentia
+
+Comunidad 39
+50: Rodentia
+
+Comunidad 40
+52: Rodentia
+
+Comunidad 41
+57: Chiroptera
+
+Comunidad 42
+60: Coelacanthiformes
+
+Comunidad 43
+61: Crocodylia
+
+Comunidad 44
+63: Chiroptera
+
+Comunidad 45
+66: Artiodactyla
+
+Comunidad 46
+67: Carnivora
+
+Comunidad 47
+70: Macroscelidea
+
+Comunidad 48
+71: Chiroptera
+
+Comunidad 49
+76: Characiformes
+
+Comunidad 50
+77: Squamata
+
+Comunidad 51
+79: Eulipotyphla
+
+Comunidad 52
+83: Primates
+
+Comunidad 53
+85: Pleuronectiformes
+
+Comunidad 54
+87: Perissodactyla
+
+Comunidad 55
+88: Dermoptera
+
+Comunidad 56
+92: Rodentia
+
+Comunidad 57
+94: Esociformes
+
+Comunidad 58
+97: Chiroptera
+
+Comunidad 59
+99: Primates
+
+Comunidad 60
+100: Primates
+
+Comunidad 61
+102: Primates
+
+Comunidad 62
+105: Rodentia
+
+Comunidad 63
+106: Cyprinodontiformes
+
+Comunidad 64
+111: Squamata
+
+Comunidad 65
+112: Rodentia
+
+Comunidad 66
+113: Cyprinodontiformes
+
+Comunidad 67
+115: Chiroptera
+
+Comunidad 68
+117: Cypriniformes
+
+Comunidad 69
+121: Characiformes
+
+Comunidad 70
+123: Anura
+
+Comunidad 71
+124: Undefined
+
+Comunidad 72
+125: Carnivora
+
+Comunidad 73
+126: Crocodylia
+
+Comunidad 74
+128: Syngnathiformes
+
+Comunidad 75
+130: Pleuronectiformes
+
+Comunidad 76
+131: Rodentia
+
+Comunidad 77
+132: Synbranchiformes
+
+Comunidad 78
+133: Labriformes
+
+Comunidad 79
+134: Squamata
+
+Comunidad 80
+156: Synbranchiformes
+
+Comunidad 81
+157: Rodentia
+
+Comunidad 82
+161: Gymnotiformes
+
+Comunidad 83
+163: Siluriformes
+
+Comunidad 84
+167: Rodentia
+
+Comunidad 85
+170: Undefined
+
+Comunidad 86
+171: Blenniiformes
+
+Comunidad 87
+173: Perciformes
+
+Comunidad 88
+177: Clupeiformes
+
+Comunidad 89
+179: Perciformes
+
+Comunidad 90
+180: Carangiformes
+
+Comunidad 91
+182: Holocentriformes
+
+Comunidad 92
+183: Blenniiformes
+
+Comunidad 93
+184: Kurtiformes
+
+Comunidad 94
+185: Gymnophiona
+
+Comunidad 95
+188: Cichliformes
+
+Comunidad 96
+189: Gonorynchiformes
+
+Comunidad 97
+208: Gymnophiona
+
+Comunidad 98
+212: Squamata
+
+Comunidad 99
+217: Chiroptera
+
+Comunidad 100
+224: Cyprinodontiformes
+
+Comunidad 101
+225: Pilosa
+
+Comunidad 102
+234: Anura
+
+Comunidad 103
+235: Anura
+
+Comunidad 104
+237: Lagomorpha

@@ -1,0 +1,273 @@
+1: Homo sapiens 
+2: Mus musculus 
+3: Rattus norvegicus 
+4: Bos taurus 
+5:  Gallus gallus 
+6: Sus scrofa 
+7:  Ovis aries 
+8:  Pan troglodytes 
+9:  Canis lupus familiaris 
+10:  Xenopus tropicalis 
+11:  Macaca mulatta 
+12: Oryctolagus cuniculus 
+13:  Monodelphis domestica 
+14:  Equus caballus 
+15:  Ornithorhynchus anatinus 
+16: Cavia porcellus 
+17:  Taeniopygia guttata 
+18:  Meleagris gallopavo 
+19:  Callithrix jacchus 
+20:  Pongo abelii 
+21:  Ailuropoda melanoleuca 
+22:  Anolis carolinensis 
+23:  Nomascus leucogenys 
+24:  Loxodonta africana 
+25: Cricetulus griseus 
+26:  Sarcophilus harrisii 
+27:  Otolemur garnettii 
+28:  Pan paniscus 
+29:  Papio anubis 
+30:  Saimiri boliviensis boliviensis 
+31:  Felis catus 
+32:  Gorilla gorilla gorilla 
+33:  Orcinus orca 
+34:  Tursiops truncatus 
+35:  Trichechus manatus latirostris 
+36:  Odobenus rosmarus divergens 
+37:  Ceratotherium simum simum 
+38:  Dasypus novemcinctus 
+39:  Ochotona princeps 
+40:  Sorex araneus 
+41:  Octodon degus 
+42:  Jaculus jaculus 
+43:  Condylura cristata 
+44:  Echinops telfairi 
+45:  Mustela putorius furo 
+46:  Heterocephalus glaber 
+47:  Anas platyrhynchos 
+48:  Ficedula albicollis 
+49: Mesocricetus auratus 
+50:  Melopsittacus undulatus 
+51: Falco peregrinus 
+52:  Chrysemys picta bellii 
+53:  Ictidomys tridecemlineatus 
+54:  Microtus ochrogaster 
+55:  Chinchilla lanigera 
+56:  Geospiza fortis 
+57:  Falco cherrug 
+58:  Zonotrichia albicollis 
+59:  Columba livia 
+60:  Pseudopodoces humilis 
+61:  Macaca fascicularis 
+62:  Capra hircus 
+63:  Myotis brandtii 
+64:  Bos mutus 
+65:  Alligator sinensis 
+66:  Bubalus bubalis 
+67:  Myotis lucifugus 
+68:  Pelodiscus sinensis 
+69:  Tupaia chinensis 
+70:  Camelus ferus 
+71:  Vicugna pacos 
+72:  Leptonychotes weddellii 
+73:  Myotis davidii 
+74:  Chrysochloris asiatica 
+75:  Elephantulus edwardii 
+76:  Pteropus alecto 
+77:  Peromyscus maniculatus bairdii 
+78:  Chelonia mydas 
+79:  Panthera tigris altaica 
+80:  Physeter catodon 
+81:  Balaenoptera acutorostrata scammoni 
+82:  Python bivittatus 
+83:  Lipotes vexillifer 
+84:  Erinaceus europaeus 
+85:  Orycteropus afer afer 
+86:  Chlorocebus sabaeus 
+87:  Carlito syrichta 
+88:  Eptesicus fuscus 
+89:  Calypte anna 
+90:  Equus przewalskii 
+91:  Galeopterus variegatus 
+92:  Corvus brachyrhynchos 
+93:  Ursus maritimus 
+94:  Nannospalax galili 
+95:  Manacus vitellinus 
+96:  Merops nubicus 
+97:  Serinus canaria 
+98:  Aptenodytes forsteri 
+99:  Pygoscelis adeliae 
+100:  Nipponia nippon 
+101:  Pelecanus crispus 
+102:  Cuculus canorus 
+103:  Egretta garzetta 
+104:  Struthio camelus australis 
+105:  Gavia stellata 
+106:  Charadrius vociferus 
+107:  Picoides pubescens 
+108:  Opisthocomus hoazin 
+109:  Leptosomus discolor 
+110:  Tyto alba alba 
+111:  Chaetura pelagica 
+112:  Buceros rhinoceros silvestris 
+113:  Mesitornis unicolor 
+114:  Colius striatus 
+115:  Tinamus guttatus 
+116:  Rhinopithecus roxellana 
+117:  Corvus cornix cornix 
+118:  Haliaeetus leucocephalus 
+119:  Fukomys damarensis 
+120:  Bison bison bison 
+121:  Camelus bactrianus 
+122:  Camelus dromedarius 
+123:  Pteropus vampyrus 
+124:  Macaca nemestrina 
+125:  Colobus angolensis palliatus 
+126:  Mandrillus leucophaeus 
+127:  Cercocebus atys 
+128:  Aotus nancymaae 
+129:  Propithecus coquereli 
+130:  Microcebus murinus 
+131:  Dipodomys ordii 
+132:  Anser cygnoides domesticus 
+133:  Apteryx australis mantelli 
+134:  Thamnophis sirtalis 
+135:  Alligator mississippiensis 
+136:  Equus asinus 
+137:  Sturnus vulgaris 
+138:  Calidris pugnax 
+139:  Acinonyx jubatus 
+140:  Gekko japonicus 
+141:  Marmota marmota marmota 
+142:  Parus major 
+143:  Protobothrops mucrosquamatus 
+144: Coturnix japonica 
+145:  Rousettus aegyptiacus 
+146:  Miniopterus natalensis 
+147:  Cebus imitator 
+148:  Manis javanica 
+149:  Lepidothrix coronata 
+150:  Rhinopithecus bieti 
+151:  Nanorana parkeri 
+152:  Panthera pardus 
+153:  Gavialis gangeticus 
+154:  Crocodylus porosus 
+155:  Hipposideros armiger 
+156:  Bos indicus 
+157:  Castor canadensis 
+158:  Pogona vitticeps 
+159:  Odocoileus virginianus texanus 
+160:  Phascolarctos cinereus 
+161:  Mus caroli 
+162:  Mus pahari 
+163:  Numida meleagris 
+164:  Lonchura striata domestica 
+165:  Meriones unguiculatus 
+166:  Neomonachus schauinslandi 
+167:  Enhydra lutris kenyoni 
+168:  Delphinapterus leucas 
+169:  Piliocolobus tephrosceles 
+170:  Cyanistes caeruleus 
+171:  Terrapene carolina triunguis 
+172:  Desmodus rotundus 
+173:  Neophocaena asiaeorientalis asiaeorientalis 
+174:  Theropithecus gelada 
+175:  Canis lupus dingo 
+176:  Callorhinus ursinus 
+177:  Puma concolor 
+178:  Vulpes vulpes 
+179:  Nothoprocta perdicaria 
+180:  Apteryx rowi 
+181:  Dromaius novaehollandiae 
+182:  Urocitellus parryii 
+183:  Ursus arctos horribilis 
+184:  Notechis scutatus 
+185:  Pseudonaja textilis 
+186:  Athene cunicularia 
+187:  Lagenorhynchus obliquidens 
+188:  Bos indicus x Bos taurus 
+189:  Zalophus californianus 
+190:  Corapipo altera 
+191:  Neopelma chrysocephalum 
+192:  Pipra filicauda 
+193:  Vombatus ursinus 
+194:  Empidonax traillii 
+195:  Marmota flaviventris 
+196:  Eumetopias jubatus 
+197:  Phyllostomus discolor 
+198:  Podarcis muralis 
+199:  Grammomys surdaster 
+200:  Peromyscus leucopus 
+201:  Monodon monoceros 
+202:  Rhinatrema bivittatum 
+203:  Suricata suricatta 
+204:  Aquila chrysaetos chrysaetos 
+205:  Microcaecilia unicolor 
+206:  Lynx canadensis 
+207:  Strigops habroptila 
+208:  Gopherus evgoodei 
+209:  Globicephala melas 
+210:  Camarhynchus parvulus 
+211:  Mastomys coucha 
+212:  Phasianus colchicus 
+213:  Corvus moneduloides 
+214:  Aythya fuligula 
+215:  Thamnophis elegans 
+216:  Sapajus apella 
+217:  Mustela erminea 
+218:  Phoca vitulina 
+219:  Phocoena sinus 
+220:  Chiroxiphia lanceolata 
+221:  Hylobates moloch 
+222:  Chelonoidis abingdonii 
+223:  Lontra canadensis 
+224:  Rattus rattus 
+225:  Amblyraja radiata 
+226:  Catharus ustulatus 
+227:  Rhinolophus ferrumequinum 
+228:  Lacerta agilis 
+229:  Trachypithecus francoisi 
+230:  Geotrypetes seraphini 
+231:  Pantherophis guttatus 
+232:  Arvicanthis niloticus 
+233:  Trachemys scripta elegans 
+234:  Mirounga leonina 
+235:  Zootoca vivipara 
+236:  Oxyura jamaicensis 
+237:  Cygnus atratus 
+238:  Halichoerus grypus 
+239:  Onychomys torridus 
+240:  Molossus molossus 
+241:  Myotis myotis 
+242:  Molothrus ater 
+243:  Pipistrellus kuhlii 
+244:  Trichosurus vulpecula 
+245:  Balaenoptera musculus 
+246:  Manis pentadactyla 
+247:  Sturnira hondurensis 
+248:  Artibeus jamaicensis 
+249:  Falco rusticolus 
+250:  Talpa occidentalis 
+251:  Choloepus didactylus 
+252:  Motacilla alba alba 
+253:  Arvicola amphibius 
+254:  Dermochelys coriacea 
+255:  Tachyglossus aculeatus 
+256:  Hyaena hyaena 
+257:  Crotalus tigris 
+258:  Mauremys reevesii 
+259:  Passer montanus 
+260:  Pteropus giganteus 
+261:  Hirundo rustica 
+262:  Oryx dammah 
+263:  Rana temporaria 
+264:  Bufo bufo 
+265:  Puma yagouaroundi 
+266:  Cygnus olor 
+267:  Falco naumanni 
+268:  Ochotona curzoniae 
+269:  Onychostruthus taczanowskii 
+270:  Pyrgilauda ruficollis 
+271:  Microtus oregoni 
+272:  Vulpes lagopus 
+273:  Corvus kubaryi 
